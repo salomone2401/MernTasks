@@ -7,16 +7,16 @@ Podes probar la app en el siguiente link: **https://merntask-ana-salomone.vercel
 
 O a continuacion se puede ver una muestra de todas las rutas: 
 ### Log In:
- <img src="./img/1.png" alt="postgresql" width="700" height="380"/> 
+ <img src="./img/1.png" alt="postgresql"  height="500"/> 
 
 ### Crear Cuenta:
-  <img src="./img/4.png" alt="postgresql" width="700" height="380"/> 
+  <img src="./img/4.png" alt="postgresql"  height="500"/> 
 
 ### Proyectos: 
 
- <img src="./img/3.png" alt="postgresql" width="700" height="380"/> 
+ <img src="./img/3.png" alt="postgresql"  height="500"/> 
 
- <img src="./img/2.png" alt="postgresql" width="700" height="380"/> 
+ <img src="./img/2.png" alt="postgresql"  height="500"/> 
 
 <br>
 
@@ -30,13 +30,13 @@ You can try the app on this link: **https://merntask-ana-salomone.vercel.app**
 
 Or take a look on the project with the next images: 
 ### Log In:
- <img src="./img/1.png" alt="postgresql" width="700" height="380"/> 
+ <img src="./img/1.png" alt="postgresql"  height="500"/> 
 
 ### Create Account:
-  <img src="./img/4.png" alt="postgresql" width="700" height="380"/> 
+  <img src="./img/4.png" alt="postgresql"  height="500"/> 
 
 ### Proyects: 
 
- <img src="./img/3.png" alt="postgresql" width="700" height="380"/> 
+ <img src="./img/3.png" alt="postgresql"  height="500"/> 
 
- <img src="./img/2.png" alt="postgresql" width="700" height="380"/> 
+ <img src="./img/2.png" alt="postgresql"  height="500"/> 
